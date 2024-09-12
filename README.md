@@ -4,7 +4,11 @@
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Julian Restrepo</h1>
 
-![GitHub followers](https://img.shields.io/github/followers/Julicode07?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/Julicode07?style=social) <img src="https://komarev.com/ghpvc/?username=Julicode07" alt="Julicode07" />
+<div align="center">
+   
+   ![JuliCode07 GitHub stats](https://github-readme-stats.vercel.app/api?username=julicode07&show_icons=true&locale=es&theme=dark#gh-dark-mode-only)
+   
+</div>
 <Br>
 <h1>About Me! 😎</h1>
 
